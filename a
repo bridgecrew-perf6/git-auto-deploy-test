@@ -1,2 +1,90 @@
-Ini adalah file a yang telah diedit
-1
+array(43) {
+  ["USER"]=>
+  string(3) "www"
+  ["HOME"]=>
+  string(9) "/home/www"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["REQUEST_URI"]=>
+  string(16) "/?name=githuboke"
+  ["QUERY_STRING"]=>
+  string(14) "name=githuboke"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["REMOTE_PORT"]=>
+  string(5) "25737"
+  ["SCRIPT_FILENAME"]=>
+  string(37) "/www/wwwroot/deploy.degovps/index.php"
+  ["SERVER_ADMIN"]=>
+  string(21) "webmaster@example.com"
+  ["CONTEXT_DOCUMENT_ROOT"]=>
+  string(28) "/www/wwwroot/deploy.degovps/"
+  ["CONTEXT_PREFIX"]=>
+  string(0) ""
+  ["REQUEST_SCHEME"]=>
+  string(5) "https"
+  ["DOCUMENT_ROOT"]=>
+  string(28) "/www/wwwroot/deploy.degovps/"
+  ["REMOTE_ADDR"]=>
+  string(14) "140.82.115.109"
+  ["SERVER_PORT"]=>
+  string(3) "443"
+  ["SERVER_ADDR"]=>
+  string(12) "172.31.40.95"
+  ["SERVER_NAME"]=>
+  string(17) "deploy.degovps.cf"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_SIGNATURE"]=>
+  string(63) "<address>Apache Server at deploy.degovps.cf Port 443</address>
+"
+  ["LD_LIBRARY_PATH"]=>
+  string(22) "/www/server/apache/lib"
+  ["PATH"]=>
+  string(70) "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(16) "application/json"
+  ["HTTP_X_HUB_SIGNATURE_256"]=>
+  string(71) "sha256=9c28d438c9454ab3747b03758e9f70ced2f520bed77ebf8f6dc7fab2e6e6e3bf"
+  ["HTTP_X_HUB_SIGNATURE"]=>
+  string(45) "sha1=ac7331c177257dc953605c6b7724e7725e410af4"
+  ["HTTP_X_GITHUB_HOOK_INSTALLATION_TARGET_TYPE"]=>
+  string(10) "repository"
+  ["HTTP_X_GITHUB_HOOK_INSTALLATION_TARGET_ID"]=>
+  string(9) "450073627"
+  ["HTTP_X_GITHUB_HOOK_ID"]=>
+  string(9) "339144761"
+  ["HTTP_X_GITHUB_EVENT"]=>
+  string(4) "push"
+  ["HTTP_X_GITHUB_DELIVERY"]=>
+  string(36) "944a0284-79f1-11ec-9ba8-c4fd4ac24855"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["CONTENT_LENGTH"]=>
+  string(4) "8334"
+  ["HTTP_USER_AGENT"]=>
+  string(23) "GitHub-Hookshot/9574af4"
+  ["HTTP_HOST"]=>
+  string(17) "deploy.degovps.cf"
+  ["proxy-nokeepalive"]=>
+  string(1) "1"
+  ["SSL_TLS_SNI"]=>
+  string(17) "deploy.degovps.cf"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME_FLOAT"]=>
+  float(1642683904.048634)
+  ["REQUEST_TIME"]=>
+  int(1642683904)
+}
+string(8334) "{"ref":"refs/heads/master","before":"f18e5f39e2e36203a2fde2a14ef0ba8481cc8174","after":"bd34bfb7f15764d518250e4d94988bf62f3ab43f","repository":{"id":450073627,"node_id":"R_kgDOGtOUGw","name":"git-auto-deploy-test","full_name":"ps-php/git-auto-deploy-test","private":false,"owner":{"name":"ps-php","email":null,"login":"ps-php","id":66789201,"node_id":"MDEyOk9yZ2FuaXphdGlvbjY2Nzg5MjAx","avatar_url":"https://avatars.githubusercontent.com/u/66789201?v=4","gravatar_id":"","url":"https://api.github.com/users/ps-php","html_url":"https://github.com/ps-php","followers_url":"https://api.github.com/users/ps-php/followers","following_url":"https://api.github.com/users/ps-php/following{/other_user}","gists_url":"https://api.github.com/users/ps-php/gists{/gist_id}","starred_url":"https://api.github.com/users/ps-php/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/ps-php/subscriptions","organizations_url":"https://api.github.com/users/ps-php/orgs","repos_url":"https://api.github.com/users/ps-php/repos","events_url":"https://api.github.com/users/ps-php/events{/privacy}","received_events_url":"https://api.github.com/users/ps-php/received_events","type":"Organization","site_admin":false},"html_url":"https://github.com/ps-php/git-auto-deploy-test","description":"Auto Deploy Using Git with PHP","fork":false,"url":"https://github.com/ps-php/git-auto-deploy-test","forks_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/forks","keys_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/keys{/key_id}","collaborators_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/teams","hooks_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/hooks","issue_events_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/issues/events{/number}","events_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/events","assignees_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/assignees{/user}","branches_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/branches{/branch}","tags_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/tags","blobs_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/git/refs{/sha}","trees_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/git/trees{/sha}","statuses_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/statuses/{sha}","languages_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/languages","stargazers_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/stargazers","contributors_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/contributors","subscribers_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/subscribers","subscription_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/subscription","commits_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/commits{/sha}","git_commits_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/git/commits{/sha}","comments_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/comments{/number}","issue_comment_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/issues/comments{/number}","contents_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/contents/{+path}","compare_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/compare/{base}...{head}","merges_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/merges","archive_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/downloads","issues_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/issues{/number}","pulls_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/pulls{/number}","milestones_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/milestones{/number}","notifications_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/labels{/name}","releases_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/releases{/id}","deployments_url":"https://api.github.com/repos/ps-php/git-auto-deploy-test/deployments","created_at":1642678925,"updated_at":"2022-01-20T11:42:05Z","pushed_at":1642683902,"git_url":"git://github.com/ps-php/git-auto-deploy-test.git","ssh_url":"git@github.com:ps-php/git-auto-deploy-test.git","clone_url":"https://github.com/ps-php/git-auto-deploy-test.git","svn_url":"https://github.com/ps-php/git-auto-deploy-test","homepage":null,"size":0,"stargazers_count":0,"watchers_count":0,"language":null,"has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":0,"license":null,"allow_forking":true,"is_template":false,"topics":[],"visibility":"public","forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master","organization":"ps-php"},"pusher":{"name":"irsyadulibad","email":"47577443+irsyadulibad@users.noreply.github.com"},"organization":{"login":"ps-php","id":66789201,"node_id":"MDEyOk9yZ2FuaXphdGlvbjY2Nzg5MjAx","url":"https://api.github.com/orgs/ps-php","repos_url":"https://api.github.com/orgs/ps-php/repos","events_url":"https://api.github.com/orgs/ps-php/events","hooks_url":"https://api.github.com/orgs/ps-php/hooks","issues_url":"https://api.github.com/orgs/ps-php/issues","members_url":"https://api.github.com/orgs/ps-php/members{/member}","public_members_url":"https://api.github.com/orgs/ps-php/public_members{/member}","avatar_url":"https://avatars.githubusercontent.com/u/66789201?v=4","description":"Procedural Slim PHP Framework"},"sender":{"login":"irsyadulibad","id":47577443,"node_id":"MDQ6VXNlcjQ3NTc3NDQz","avatar_url":"https://avatars.githubusercontent.com/u/47577443?v=4","gravatar_id":"","url":"https://api.github.com/users/irsyadulibad","html_url":"https://github.com/irsyadulibad","followers_url":"https://api.github.com/users/irsyadulibad/followers","following_url":"https://api.github.com/users/irsyadulibad/following{/other_user}","gists_url":"https://api.github.com/users/irsyadulibad/gists{/gist_id}","starred_url":"https://api.github.com/users/irsyadulibad/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/irsyadulibad/subscriptions","organizations_url":"https://api.github.com/users/irsyadulibad/orgs","repos_url":"https://api.github.com/users/irsyadulibad/repos","events_url":"https://api.github.com/users/irsyadulibad/events{/privacy}","received_events_url":"https://api.github.com/users/irsyadulibad/received_events","type":"User","site_admin":false},"created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/ps-php/git-auto-deploy-test/compare/f18e5f39e2e3...bd34bfb7f157","commits":[{"id":"bd34bfb7f15764d518250e4d94988bf62f3ab43f","tree_id":"fde49dccee4dc87614155e56f8a2998d090ab5b6","distinct":true,"message":"change: a","timestamp":"2022-01-20T20:04:35+07:00","url":"https://github.com/ps-php/git-auto-deploy-test/commit/bd34bfb7f15764d518250e4d94988bf62f3ab43f","author":{"name":"irsyadulibad","email":"ahmadirsyadulibad7@gmail.com","username":"irsyadulibad"},"committer":{"name":"irsyadulibad","email":"ahmadirsyadulibad7@gmail.com","username":"irsyadulibad"},"added":[],"removed":[],"modified":["a"]}],"head_commit":{"id":"bd34bfb7f15764d518250e4d94988bf62f3ab43f","tree_id":"fde49dccee4dc87614155e56f8a2998d090ab5b6","distinct":true,"message":"change: a","timestamp":"2022-01-20T20:04:35+07:00","url":"https://github.com/ps-php/git-auto-deploy-test/commit/bd34bfb7f15764d518250e4d94988bf62f3ab43f","author":{"name":"irsyadulibad","email":"ahmadirsyadulibad7@gmail.com","username":"irsyadulibad"},"committer":{"name":"irsyadulibad","email":"ahmadirsyadulibad7@gmail.com","username":"irsyadulibad"},"added":[],"removed":[],"modified":["a"]}}"
